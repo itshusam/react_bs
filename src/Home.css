@@ -1,0 +1,15 @@
+.home-page {
+    background-color: #f0e68c; 
+    width: 100vw; 
+    height: 100vh;
+  }
+  
+  .welcome-image {
+    max-width: 80%; 
+  }
+  
+  .shop-btn {
+    font-size: 1.5rem;
+    padding: 10px 30px;
+  }
+  
